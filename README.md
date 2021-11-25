@@ -21,5 +21,9 @@ Dibutuhkan beberapa library python untuk menjalankan program tersebut, yakni:
 
 Dataset:
 Data Latih: https://drive.google.com/drive/folders/1-Zc7awO6wowwE79otnBtcxHNBfHplL97?usp=sharing
+
 Data Validasi: https://drive.google.com/drive/folders/1-lUEhx2YyLwT3CK_bUZpKm_YTXHuyL2S?usp=sharing
+
 Data Uji: https://drive.google.com/drive/folders/1-i9ydXgtF6rtV8lcdCVjuzUjZOLSFeBx?usp=sharing
+
+Best Model: https://drive.google.com/file/d/1OSYtaFVBs50EMgM8BfJ7h4W_BmchAkJk/view?usp=sharing
